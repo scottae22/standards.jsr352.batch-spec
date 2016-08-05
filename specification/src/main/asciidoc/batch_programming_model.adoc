@@ -1134,7 +1134,7 @@ initiated. Batch properties are string values.
 Note batch properties are visible only in the scope in which they are
 defined (see Section 9.3.2). However batch properties values can be
 formed from other properties according to Job XML Substitution Rules.
-See section 8.8 for further information on substitution.
+See section xref:_job_xml_substitution[8.8] for further information on substitution.
 
 ==== @BatchProperty
 
@@ -1212,7 +1212,7 @@ corresponding property element with a matching name is specified in the
 JSL in the scope that applies to the batch artifact in question. If the
 JSL property value resolves to the empty string (either explicitly set
 to the empty string literal or resolving to an empty string via property
-substitution – see section 8.8), no assignment is made and the resulting
+substitution – see section xref:_job_xml_substitution[8.8]), no assignment is made and the resulting
 value is undefined by the batch specification. The resulting value might
 simply be the Java default value, however using various dependency
 injection technologies may produce different results. The resultant

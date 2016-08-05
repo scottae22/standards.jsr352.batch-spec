@@ -97,7 +97,7 @@ transitioning & termination not fully defined
 |https://java.net/bugzilla/show_bug.cgiid=5374[5374] |Details of
 exception handling (by container)
 
-|https://java.net/bugzilla/show_bug.cgiid=4830[4830] |8.6.1 Transition
+|https://java.net/bugzilla/show_bug.cgiid=4830[4830] |xref:_next_element[8.6.1] Transition
 Next Element
 
 |https://java.net/bugzilla/show_bug.cgiid=4865[4865] |SPEC Partition
